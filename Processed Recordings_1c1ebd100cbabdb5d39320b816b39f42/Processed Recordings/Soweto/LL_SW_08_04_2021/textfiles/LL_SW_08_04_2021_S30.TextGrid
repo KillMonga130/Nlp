@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.426575963718821 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Mary" 
+        xmin = 0 
+        xmax = 3.426575963718821 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4754764892779953 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4754764892779953 
+            xmax = 0.4852680106431746 
+            text = "" 
+        intervals [3]:
+            xmin = 0.4852680106431746 
+            xmax = 0.6908899593119397 
+            text = "Tho" 
+        intervals [4]:
+            xmin = 0.6908899593119397 
+            xmax = 0.9356779934414221 
+            text = "ba" 
+        intervals [5]:
+            xmin = 0.9356779934414221 
+            xmax = 1.5476480787651277 
+            text = "" 
+        intervals [6]:
+            xmin = 1.5476480787651277 
+            xmax = 1.7287912240209447 
+            text = "pe" 
+        intervals [7]:
+            xmin = 1.7287912240209447 
+            xmax = 2.179201206819192 
+            text = "lo" 
+        intervals [8]:
+            xmin = 2.179201206819192 
+            xmax = 2.3158745258748192 
+            text = "o" 
+        intervals [9]:
+            xmin = 2.3158745258748192 
+            xmax = 2.4305973432190027 
+            text = "tsa" 
+        intervals [10]:
+            xmin = 2.4305973432190027 
+            xmax = 2.588909630758084 
+            text = "ma" 
+        intervals [11]:
+            xmin = 2.588909630758084 
+            xmax = 2.723543049529299 
+            text = "ye" 
+        intervals [12]:
+            xmin = 2.723543049529299 
+            xmax = 2.868815771005803 
+            text = "mo" 
+        intervals [13]:
+            xmin = 2.868815771005803 
+            xmax = 3.015688591483492 
+            text = "rwe" 
+        intervals [14]:
+            xmin = 3.015688591483492 
+            xmax = 3.1088736279308598 
+            text = "tsa" 
+        intervals [15]:
+            xmin = 3.1088736279308598 
+            xmax = 3.426575963718821 
+            text = "na" 

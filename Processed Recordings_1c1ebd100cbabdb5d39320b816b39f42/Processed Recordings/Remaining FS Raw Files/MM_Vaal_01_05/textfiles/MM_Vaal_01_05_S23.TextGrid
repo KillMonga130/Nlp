@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 208.00862710944472 
+xmax = 211.58774848694082 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Mary" 
+        xmin = 208.00862710944472 
+        xmax = 211.58774848694082 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 208.00862710944472 
+            xmax = 208.1421974811885 
+            text = "" 
+        intervals [2]:
+            xmin = 208.1421974811885 
+            xmax = 208.34388216142898 
+            text = "Ba" 
+        intervals [3]:
+            xmin = 208.34388216142898 
+            xmax = 208.57655604539303 
+            text = "so" 
+        intervals [4]:
+            xmin = 208.57655604539303 
+            xmax = 209.08340914757952 
+            text = "tho" 
+        intervals [5]:
+            xmin = 209.08340914757952 
+            xmax = 209.36210643716285 
+            text = "n" 
+        intervals [6]:
+            xmin = 209.36210643716285 
+            xmax = 209.60652623550908 
+            text = "ki" 
+        intervals [7]:
+            xmin = 209.60652623550908 
+            xmax = 209.78924180782937 
+            text = "ne" 
+        intervals [8]:
+            xmin = 209.78924180782937 
+            xmax = 209.95460189283867 
+            text = "le" 
+        intervals [9]:
+            xmin = 209.95460189283867 
+            xmax = 210.14694632833096 
+            text = "ng" 
+        intervals [10]:
+            xmin = 210.14694632833096 
+            xmax = 210.34510265808055 
+            text = "ma" 
+        intervals [11]:
+            xmin = 210.34510265808055 
+            xmax = 210.52845432510082 
+            text = "tso" 
+        intervals [12]:
+            xmin = 210.52845432510082 
+            xmax = 210.7189400872472 
+            text = "ho" 
+        intervals [13]:
+            xmin = 210.7189400872472 
+            xmax = 210.93991803536827 
+            text = "me" 
+        intervals [14]:
+            xmin = 210.93991803536827 
+            xmax = 211.15960215701386 
+            text = "tsi" 
+        intervals [15]:
+            xmin = 211.15960215701386 
+            xmax = 211.58774848694082 
+            text = "ng" 
