@@ -1,0 +1,66 @@
+filepath,speaker,location,label,predicted,correct
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\KM_FS_19_04_S2.wav,KM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\KM_FS_19_04_S3.wav,KM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\KM_FS_19_04_S13.wav,KM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\KM_FS_19_04_S21.wav,KM,FS,lexical,subject_marker,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\KM_FS_19_04_S9.wav,KM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\KM_FS_19_04_S14.wav,KM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\KM_FS_19_04_S6.wav,KM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\KM_FS_19_04_S11.wav,KM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\MM_FS_07_05_2021_S2.wav,MM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\MM_FS_07_05_2021_S14.wav,MM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\MM_FS_07_05_2021_S13.wav,MM,FS,lexical,subject_marker,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\MM_FS_07_05_2021_S3.wav,MM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\MM_FS_07_05_2021_S6.wav,MM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\MM_FS_07_05_2021_S21.wav,MM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\MM_FS_07_05_2021_S11.wav,MM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\MM_FS_07_05_2021_S9.wav,MM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\PL_FS_07_05_2021_S14.wav,PL,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\PL_FS_07_05_2021_S2.wav,PL,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\PL_FS_07_05_2021_S11.wav,PL,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\PL_FS_07_05_2021_S21.wav,PL,FS,lexical,subject_marker,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\PL_FS_07_05_2021_S13.wav,PL,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\PL_FS_07_05_2021_S3.wav,PL,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\PL_FS_07_05_2021_S6.wav,PL,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\PL_FS_07_05_2021_S9.wav,PL,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\SM_FS_23_04_21_S14.wav,SM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\SM_FS_23_04_21_S11.wav,SM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\SM_FS_23_04_21_S2.wav,SM,FS,lexical,subject_marker,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\SM_FS_23_04_21_S13.wav,SM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\SM_FS_23_04_21_S21.wav,SM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\SM_FS_23_04_21_S3.wav,SM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\SM_FS_23_04_21_S6.wav,SM,FS,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\SM_FS_23_04_21_S9.wav,SM,FS,lexical,subject_marker,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\TQ_SW_08_04_2021_S11.wav,TQ,SW,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\TQ_SW_08_04_2021_S14.wav,TQ,SW,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\TQ_SW_08_04_2021_S13.wav,TQ,SW,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\TQ_SW_08_04_2021_S2.wav,TQ,SW,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\TQ_SW_08_04_2021_S6.wav,TQ,SW,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\TQ_SW_08_04_2021_S21.wav,TQ,SW,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\TQ_SW_08_04_2021_S3.wav,TQ,SW,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Lexical\TQ_SW_08_04_2021_S9.wav,TQ,SW,lexical,lexical,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\KM_FS_19_04_S18.wav,KM,FS,subject_marker,subject_marker,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\KM_FS_19_04_S16.wav,KM,FS,subject_marker,lexical,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\KM_FS_19_04_S19.wav,KM,FS,subject_marker,subject_marker,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\KM_FS_19_04_S20.wav,KM,FS,subject_marker,subject_marker,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\KM_FS_19_04_S17.wav,KM,FS,subject_marker,subject_marker,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\MM_FS_07_05_2021_S16.wav,MM,FS,subject_marker,lexical,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\MM_FS_07_05_2021_S18.wav,MM,FS,subject_marker,lexical,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\MM_FS_07_05_2021_S19.wav,MM,FS,subject_marker,subject_marker,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\MM_FS_07_05_2021_S20.wav,MM,FS,subject_marker,subject_marker,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\MM_FS_07_05_2021_S17.wav,MM,FS,subject_marker,subject_marker,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\PL_FS_07_05_2021_S16.wav,PL,FS,subject_marker,subject_marker,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\PL_FS_07_05_2021_S17.wav,PL,FS,subject_marker,subject_marker,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\PL_FS_07_05_2021_S18.wav,PL,FS,subject_marker,subject_marker,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\PL_FS_07_05_2021_S19.wav,PL,FS,subject_marker,lexical,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\PL_FS_07_05_2021_S20.wav,PL,FS,subject_marker,lexical,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\SM_FS_23_04_21_S16.wav,SM,FS,subject_marker,lexical,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\SM_FS_23_04_21_S18.wav,SM,FS,subject_marker,lexical,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\SM_FS_23_04_21_S17.wav,SM,FS,subject_marker,subject_marker,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\SM_FS_23_04_21_S19.wav,SM,FS,subject_marker,lexical,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\TQ_SW_08_04_2021_S16.wav,TQ,SW,subject_marker,lexical,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\SM_FS_23_04_21_S20.wav,SM,FS,subject_marker,lexical,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\TQ_SW_08_04_2021_S17.wav,TQ,SW,subject_marker,subject_marker,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\TQ_SW_08_04_2021_S18.wav,TQ,SW,subject_marker,lexical,False
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\TQ_SW_08_04_2021_S19.wav,TQ,SW,subject_marker,subject_marker,True
+c:\\Users\\mubva\\Downloads\\Nlp\Minimal Pairs Recordings_6a9c3d7b8b9da1b7ea304bf2a54f32ae\Minimal Pairs\Subject Marker\TQ_SW_08_04_2021_S20.wav,TQ,SW,subject_marker,lexical,False

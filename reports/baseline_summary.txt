@@ -1,0 +1,38 @@
+======================================================================
+SESOTHO TONE CLASSIFICATION - BASELINE RESULTS SUMMARY
+======================================================================
+
+Date: 2025-10-21 06:04:45
+Model: Random Forest Classifier (n_estimators=200)
+
+DATASET INFORMATION:
+----------------------------------------------------------------------
+Total labeled samples: 208
+Training samples: 143 (68.8%)
+Test samples: 65 (31.2%)
+Number of features: 31
+Train speakers: ['KN', 'LL', 'LM', 'LP', 'NM', 'NN', 'OR', 'RM', 'TL', 'VS']
+Test speakers (unseen): ['KM', 'MM', 'PL', 'SM', 'TQ']
+
+PERFORMANCE METRICS:
+----------------------------------------------------------------------
+Test Accuracy: 73.85%
+Macro F1-Score: 0.7046
+Training Accuracy: 100.00%
+Training Time: 0.25 seconds
+
+PER-CLASS PERFORMANCE:
+----------------------------------------------------------------------
+                precision    recall  f1-score   support
+
+       Lexical       0.74      0.88      0.80        40
+Subject Marker       0.72      0.52      0.60        25
+
+      accuracy                           0.74        65
+     macro avg       0.73      0.70      0.70        65
+  weighted avg       0.74      0.74      0.73        65
+
+
+ASSESSMENT:
+----------------------------------------------------------------------
+✅ MINIMUM MET: Acceptable for project completion
